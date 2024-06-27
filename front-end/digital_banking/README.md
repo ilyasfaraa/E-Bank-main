@@ -1,27 +1,40 @@
-# DigitalBanking
+# mvc_spring
+<h1>Compte rendu</h1>
+<img src="C:\Users\PC\Desktop\4IIR-S2\JEE\TP\E-Bank-main\front-end\digital_banking\src\capture\cap1.png">
+<img src="C:\Users\PC\Desktop\4IIR-S2\JEE\TP\E-Bank-main\front-end\digital_banking\src\capture\cap2.png">
+<img src="C:\Users\PC\Desktop\4IIR-S2\JEE\TP\E-Bank-main\front-end\digital_banking\src\capture\cap3.png">
+<img src="C:\Users\PC\Desktop\4IIR-S2\JEE\TP\E-Bank-main\front-end\digital_banking\src\capture\cap4.png">
+<img src="C:\Users\PC\Desktop\4IIR-S2\JEE\TP\E-Bank-main\front-end\digital_banking\src\capture\cap5.png">
+<img src="C:\Users\PC\Desktop\4IIR-S2\JEE\TP\E-Bank-main\front-end\digital_banking\src\capture\cap6.png">
+<img src="C:\Users\PC\Desktop\4IIR-S2\JEE\TP\E-Bank-main\front-end\digital_banking\src\capture\cap7.png">
+<img src="C:\Users\PC\Desktop\4IIR-S2\JEE\TP\E-Bank-main\front-end\digital_banking\src\capture\cap8.png">
+<img src="C:\Users\PC\Desktop\4IIR-S2\JEE\TP\E-Bank-main\front-end\digital_banking\src\capture\cap9.png">
+<img src="C:\Users\PC\Desktop\4IIR-S2\JEE\TP\E-Bank-main\front-end\digital_banking\src\capture\cap10.png">
+<img src="C:\Users\PC\Desktop\4IIR-S2\JEE\TP\E-Bank-main\front-end\digital_banking\src\capture\ca.png">
+<img src="C:\Users\PC\Desktop\4IIR-S2\JEE\TP\E-Bank-main\front-end\digital_banking\src\capture\ca1.png">
+<img src="C:\Users\PC\Desktop\4IIR-S2\JEE\TP\E-Bank-main\front-end\digital_banking\src\capture\ca2.png">
+<img src="C:\Users\PC\Desktop\4IIR-S2\JEE\TP\E-Bank-main\front-end\digital_banking\src\capture\ca3.png">
+<img src="C:\Users\PC\Desktop\4IIR-S2\JEE\TP\E-Bank-main\front-end\digital_banking\src\capture\ca4.png">
+<img src="C:\Users\PC\Desktop\4IIR-S2\JEE\TP\E-Bank-main\front-end\digital_banking\src\capture\img.png">
+<img src="C:\Users\PC\Desktop\4IIR-S2\JEE\TP\E-Bank-main\front-end\digital_banking\src\capture\img_1.png">
+<img src="C:\Users\PC\Desktop\4IIR-S2\JEE\TP\E-Bank-main\front-end\digital_banking\src\capture\img_2.png">
+<img src="C:\Users\PC\Desktop\4IIR-S2\JEE\TP\E-Bank-main\front-end\digital_banking\src\capture\img_3.png">
+<img src="C:\Users\PC\Desktop\4IIR-S2\JEE\TP\E-Bank-main\front-end\digital_banking\src\capture\img_4.png">
+<img src="C:\Users\PC\Desktop\4IIR-S2\JEE\TP\E-Bank-main\front-end\digital_banking\src\capture\img_5.png">
+<img src="C:\Users\PC\Desktop\4IIR-S2\JEE\TP\E-Bank-main\front-end\digital_banking\src\capture\img_6.png">
+<img src="C:\Users\PC\Desktop\4IIR-S2\JEE\TP\E-Bank-main\front-end\digital_banking\src\capture\img_7.png">
+<img src="C:\Users\PC\Desktop\4IIR-S2\JEE\TP\E-Bank-main\front-end\digital_banking\src\capture\img_8.png">
+<img src="C:\Users\PC\Desktop\4IIR-S2\JEE\TP\E-Bank-main\front-end\digital_banking\src\capture\img_9.png">
+<img src="C:\Users\PC\Desktop\4IIR-S2\JEE\TP\E-Bank-main\front-end\digital_banking\src\capture\img_10.png">
+<img src="C:\Users\PC\Desktop\4IIR-S2\JEE\TP\E-Bank-main\front-end\digital_banking\src\capture\img_11.png">
+<img src="C:\Users\PC\Desktop\4IIR-S2\JEE\TP\E-Bank-main\front-end\digital_banking\src\capture\img_12.png">
+<img src="C:\Users\PC\Desktop\4IIR-S2\JEE\TP\E-Bank-main\front-end\digital_banking\src\capture\img_13.png">
+<img src="C:\Users\PC\Desktop\4IIR-S2\JEE\TP\E-Bank-main\front-end\digital_banking\src\capture\img_14.png">
+<img src="C:\Users\PC\Desktop\4IIR-S2\JEE\TP\E-Bank-main\front-end\digital_banking\src\capture\img_15.png">
+<img src="C:\Users\PC\Desktop\4IIR-S2\JEE\TP\E-Bank-main\front-end\digital_banking\src\capture\img_16.png">
+<img src="C:\Users\PC\Desktop\4IIR-S2\JEE\TP\E-Bank-main\front-end\digital_banking\src\capture\img_17.png">
+<img src="C:\Users\PC\Desktop\4IIR-S2\JEE\TP\E-Bank-main\front-end\digital_banking\src\capture\img_18.png">
+<img src="C:\Users\PC\Desktop\4IIR-S2\JEE\TP\E-Bank-main\front-end\digital_banking\src\capture\img_19.png">
+<img src="C:\Users\PC\Desktop\4IIR-S2\JEE\TP\E-Bank-main\front-end\digital_banking\src\capture\img_20.png">
+<img src="C:\Users\PC\Desktop\4IIR-S2\JEE\TP\E-Bank-main\front-end\digital_banking\src\capture\img_21.png">
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.3.5.
-
-## Development server
-
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
-
-## Code scaffolding
-
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
-
-## Build
-
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
-
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
